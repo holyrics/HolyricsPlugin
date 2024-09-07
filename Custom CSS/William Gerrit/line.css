@@ -1,0 +1,17 @@
+.text-custom span{
+  display: inline;
+  background: black;
+  box-shadow: 50px 0 0 black, -50px 0 0 black;
+}
+
+.bible-header-custom {
+  margin: auto !important;
+  margin-bottom: 0.2em !important;
+  display: table !important;
+}
+
+#invisible .bible-header-custom {
+  margin: auto !important;
+  margin-bottom: 0.2em !important;
+  display: table !important;
+}
