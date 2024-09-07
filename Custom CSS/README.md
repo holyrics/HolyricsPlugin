@@ -17,24 +17,39 @@ pasta/abc.png
 
 ## William Gerrit
 
-## box
+## 01 - shadow
 
-![box](William%20Gerrit/box.png)<details>
+![01 - shadow](William%20Gerrit/01%20-%20shadow.png)<details>
   <summary>Ver CSS</summary>
 
 ```css
-.text-custom span {
-  background-color: rgba(0, 0, 0, 0.6);
-  display: grid;
+span.header {
+  display: block;
+  margin-bottom: 10px;
+  white-space: nowrap;
+  font-size: 4px;
+  width: 100%;
+  margin: auto;
+}
+
+.text-custom {
+  border: none;
+  text-shadow: 2px 2px 30px rgba(0,0,0) ;
+  -webkit-text-stroke-width: 0px;
+  -webkit-text-stroke-color: black;
+}
+
+.bible-header-custom {
+  font-size: 4px;
 }
 ```
 </details>
 
 <hr>
 
-## line
+## 02 - line
 
-![line](William%20Gerrit/line.png)<details>
+![02 - line](William%20Gerrit/02%20-%20line.png)<details>
   <summary>Ver CSS</summary>
 
 ```css
@@ -60,9 +75,24 @@ pasta/abc.png
 
 <hr>
 
-## line_fill
+## 03 - box
 
-![line_fill](William%20Gerrit/line_fill.png)<details>
+![03 - box](William%20Gerrit/03%20-%20box.png)<details>
+  <summary>Ver CSS</summary>
+
+```css
+.text-custom span {
+  background-color: rgba(0, 0, 0, 0.6);
+  display: grid;
+}
+```
+</details>
+
+<hr>
+
+## 04 - line_fill
+
+![04 - line_fill](William%20Gerrit/04%20-%20line_fill.png)<details>
   <summary>Ver CSS</summary>
 
 ```css
@@ -84,36 +114,6 @@ pasta/abc.png
   margin: auto !important;
   margin-bottom: 0.2em !important;
   display: table !important;
-}
-```
-</details>
-
-<hr>
-
-## shadow
-
-![shadow](William%20Gerrit/shadow.png)<details>
-  <summary>Ver CSS</summary>
-
-```css
-span.header {
-  display: block;
-  margin-bottom: 10px;
-  white-space: nowrap;
-  font-size: 4px;
-  width: 100%;
-  margin: auto;
-}
-
-.text-custom {
-  border: none;
-  text-shadow: 2px 2px 30px rgba(0,0,0) ;
-  -webkit-text-stroke-width: 0px;
-  -webkit-text-stroke-color: black;
-}
-
-.bible-header-custom {
-  font-size: 4px;
 }
 ```
 </details>
