@@ -19,7 +19,7 @@ pasta/abc.png
 
 ## box
 
-![box](box.png)<details>
+![box](William%20Gerrit/box.png)<details>
   <summary>Ver CSS</summary>
 
 ```css
@@ -34,7 +34,7 @@ pasta/abc.png
 
 ## line
 
-![line](line.png)<details>
+![line](William%20Gerrit/line.png)<details>
   <summary>Ver CSS</summary>
 
 ```css
@@ -62,7 +62,7 @@ pasta/abc.png
 
 ## line_fill
 
-![line_fill](line_fill.png)<details>
+![line_fill](William%20Gerrit/line_fill.png)<details>
   <summary>Ver CSS</summary>
 
 ```css
@@ -92,7 +92,7 @@ pasta/abc.png
 
 ## shadow
 
-![shadow](shadow.png)<details>
+![shadow](William%20Gerrit/shadow.png)<details>
   <summary>Ver CSS</summary>
 
 ```css
